@@ -1,0 +1,9 @@
+.DS_Store
+
+companywise_brand_info/*
+*.parquet
+*.zip
+*.sql
+
+medex_data_v2.csv
+medex_db.csv
